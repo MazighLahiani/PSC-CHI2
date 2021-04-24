@@ -4,7 +4,9 @@
 ## Instalation 
 ### Dependencies
 RDKit [https://github.com/rdkit/rdkit] (recommended version 2018_03_1 or later)
+
 Syba [https://github.com/lich-uct/syba]
+
 Tensorflow [https://www.tensorflow.org/install/pip?hl=fr]  (recommended version 1.15 or later)
 
 ## Quick start
